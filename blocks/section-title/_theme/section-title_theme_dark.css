@@ -1,4 +1,7 @@
 .section-title_theme_dark {
   line-height: 69px;
   color: white;
+  position: relative;
+  z-index: 2;
+  
 }
